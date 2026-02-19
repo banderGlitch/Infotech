@@ -7,3 +7,8 @@ __pycache__/
 data/
 models/
 .DS_Store
+.vscode/
+.python-version
+create_venv_311.ps1
+install_requirements.ps1
+setup_kernel.ps1
